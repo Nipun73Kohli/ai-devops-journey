@@ -1,12 +1,13 @@
-# Day 2: Python Basics
+# Day 3: Python Functions and Recursion
 
 ## Topics Covered
-- 
-- Loops
+- Functions (def, parameters, return values)
+- Reusable code using functions
+- Recursion (basic understanding)
 
 ## Files
-- basics.py → basic Python syntax and examples
-- practice.py → small exercises using functions
+- basics.py → examples of functions and recursion
+- practice.py → exercises using functions and recursive logic
 
 ## Outcome
-By the end of Day 2, I understood how to itterate using loops, how to use range function, how to use else condition in for loops, how to use break and continue 
+By the end of Day 3, I understood how to write reusable functions, pass parameters, return values, and implement basic recursion in Python.
