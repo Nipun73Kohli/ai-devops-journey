@@ -1,0 +1,4 @@
+This is an example of reading a file 
+He is a good boy 
+This is next line 
+Twinkle Twinkle little star 
