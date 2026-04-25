@@ -18,7 +18,7 @@ This repository documents my transition from QA Engineer to AI and DevOps-focuse
 - Day 1: Python Basics (variables, strings, lists, dictionaries, loops)
 - Day 2: Python Control Flow (loops, range, break, continue, loop else)
 - Day 3: Functions and Recursion (functions, parameters, return values, recursion)
-- Day 4: File Handling (read/write operations, JSON handling) – in progress
+- Day 4: File Handling (read/write operation)
 
 ---
 
@@ -28,6 +28,7 @@ This repository documents my transition from QA Engineer to AI and DevOps-focuse
 - day1-python-basics/ → variables, strings, lists, dictionaries, loops
 - day2-python-control-flow/ → loops, range, break, continue
 - day3-functions-and-recursion/ → functions and recursion
+- day4-file-I/O → file read and write operations 
 
 ### Projects
 
